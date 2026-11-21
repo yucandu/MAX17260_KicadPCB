@@ -1,0 +1,4 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"3V3, ALRT, SCL, SDA",TestPoint_Pad_D1.5mm,4,TestPoint,
+THRM,TestPoint_Pad_D1.5mm,1,THERM,
+U1,TDFN-14_L3.0-W3.0-P0.40-BL-EP,1,MAX17260SETD+T,C5280558
